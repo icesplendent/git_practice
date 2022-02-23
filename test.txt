@@ -1,1 +1,2 @@
-txt: outside git_folder
+txt1: outside git_folder
+txt2: second
